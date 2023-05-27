@@ -6,7 +6,7 @@ Commented CRUD on terminal/console, made with Python and CSV database. <br>Creat
  
 Clone the repository with git or download the code as a ZIP file.
 ```bash
-$ git clone https://github.com/gMozer/CRUD_AcademiaFlexao.git
+$ git clone https://github.com/Belinaci/CRUD_AcademiaFlexao.git
 ```
     
 ## Authors
